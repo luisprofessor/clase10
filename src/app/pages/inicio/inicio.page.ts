@@ -43,6 +43,11 @@ rutas:Componente[]=[
     icon:'checkbox-outline',
     name:'Check',
     redirectTo:'/check'
+  },
+  {
+    icon:'car-outline',
+    name:'Fab',
+    redirectTo:'/fab'
   }
 
 ]
